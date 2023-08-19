@@ -21,7 +21,7 @@ for i in range(0,len(lines)):
 
     # background
 
-    picture="20230306_143337.jpg",
+    picture="ajeet.png",
     colorized=True,
     contrast=1.0,
     brightness=1.0,
