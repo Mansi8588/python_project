@@ -1,3 +1,6 @@
+# this program create qrcode for each student according to their name present in student.txt file
+
+
 from MyQR import myqr
 import os
 import base64
